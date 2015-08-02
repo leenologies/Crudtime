@@ -13,7 +13,8 @@
   <li><a href="read.php">Read Record</a></li>
   <li><a href="update.php">Update Record</a></li>
   <li><a href="delete.php">Delete Record</a></li>
-  <li><a href="exit.php">Exit</a></li>
+  
+  <li><a href="save.php">Save</a></li>
   
   
   
