@@ -15,6 +15,7 @@
   <li><a href="delete.php">Delete Record</a></li>
   
   <li><a href="save.php">Save</a></li>
+  <li><a href="save.php">Save</a></li>
   
   
   
