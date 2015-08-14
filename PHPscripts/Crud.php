@@ -10,9 +10,9 @@ class Crud{
     
     //FUNCTION CONNECTS TO THE DATABASE
     public function ConnectDB(){
-    $dsn = 'mysql:host=localhost;dbname=theShop';
-    $user = 'root';
-    $password = 'portmore38';
+    $dsn = 'mysql:host=yourHost;dbname=yourDatabase';
+    $user = 'yourUserName';
+    $password = 'yourPassword';
     
     try{
     //ASSIGNMENT OF $db TO OBJECT PDO
